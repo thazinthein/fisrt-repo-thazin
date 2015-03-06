@@ -33,7 +33,6 @@ Template Name: product categories
                     
             </div>
           </div>
-
          </div>
       </div>
     </div>
